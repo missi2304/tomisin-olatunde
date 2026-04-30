@@ -1,15 +1,14 @@
-# tomisin-olatunde
-# Hi, I'm Tomisin 👋
+# Hi, I'm Tomisin 
 
 IT Support & Network Administrator with hands-on experience in troubleshooting hardware, software, and network issues.
 
-🔧 Skills:
+Skills:
 - IT Support & Helpdesk
 - Networking & Troubleshooting
 - System Administration
 - Active Directory
 
-🌱 Currently learning:
+Currently learning:
 - Cybersecurity & Ethical Hacking
 
-💡 Passionate about solving real-world technical problems and improving system performance.
+Passionate about solving real-world technical problems and improving system performance.
